@@ -11,3 +11,6 @@ An api for teachers to fetch and create questions for exams. (Possibly more and 
 
 ## Trello Board
 * https://trello.com/b/pfKg8kFW/trivia-app
+
+## PR Convention
+* Add Trello card Url to the corresponding PR and also add the PR link to the corresponding Trello card.
